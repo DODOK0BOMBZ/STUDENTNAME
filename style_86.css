@@ -1,0 +1,33 @@
+body{
+	background-image: url("https://i.pinimg.com/originals/d1/d8/d2/d1d8d2151fc247eca961d2961e6f7f83.gif");
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+	background-repeat: no-repeat;
+    color: #ffffff;
+    font-size: 28px;
+    
+}
+
+.box1{
+    text-align: center;
+    padding: 40px 40px 5px 20px;
+}
+
+.box2{
+    text-align: center;
+    padding: 40px 40px 50px 113px;
+}
+h1{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+h2{
+    color:black;
+}
+label{
+color:black;
+}
+
+
